@@ -1,0 +1,44 @@
+*{ 
+    margin: 0px;
+    text-decoration: none;
+    color: white;
+    background-image: url(bgimg.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.linkme{
+    margin-top: 5px;
+    padding: 40px;
+    justify-content: center;
+    border: 2px solid skyblue;
+    width: 700px;
+    height: auto;
+    max-width: 500px;
+    margin: auto;
+}
+.header{
+    text-align: center;
+    background-color: antiquewhite;
+    border: 2px solid skyblue;
+}
+#mail{
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 4px;
+}
+.footer{
+    margin-bottom: 0px;
+}
+.back{
+    margin: auto;
+}
+.links{
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 30px;
+    justify-content:center;
+}
